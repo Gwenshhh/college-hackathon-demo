@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mental Health Support Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Mental Health Support Platform</h1>
+    <p class="subtitle">A safe, anonymous space — no judgment</p>
+
+    <textarea id="userInput"
+        placeholder="You can share your thoughts here anonymously..."></textarea>
+
+    <button onclick="getSupport()">Get Support</button>
+
+    <div id="output"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
