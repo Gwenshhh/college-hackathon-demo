@@ -14,7 +14,7 @@
     <textarea id="userInput"
         placeholder="You can share your thoughts here anonymously..."></textarea>
 
-    <button onclick="getSupport()">Get Support</button>
+    <button onclick="getSupport()">Get Support</button> 
 
     <div id="output"></div>
 </div>
